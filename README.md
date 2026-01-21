@@ -1,4 +1,4 @@
-### 📬 Tri Automatique d'E-mails Gmail 
+### 📬 Tri Automatique d'E-mails 
 
 ## Table des matières 
 
