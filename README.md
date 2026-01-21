@@ -1,4 +1,4 @@
-### 📬 Tri Automatique d'E-mails Gmail par IA Locale et Détection d'Inactivité
+### 📬 Tri Automatique d'E-mails Gmail 
 
 ## Table des matières 
 
