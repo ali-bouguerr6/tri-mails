@@ -83,6 +83,9 @@ Intégration de pynput pour :
 
 Pourquoi ? Créer un assistant totalement passif : l'utilisateur continue ses activités normales sans même avoir à penser à lancer le script.
 
+## 6. Resultat (Avant / Après)
+
+![](email-sorting-before-after.jpg)
 
 ## 👨‍💻 Auteur
 
